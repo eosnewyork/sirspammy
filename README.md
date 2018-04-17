@@ -11,11 +11,12 @@ method:
 
 prelim results
 
-1x spammer: ~100 tps
-2x spammer: ~190 tps
-3x spammer: ~250 tps
-4x spammer: ~330 tps
+- 1x spammer: ~100 tps
+- 2x spammer: ~190 tps
+- 3x spammer: ~250 tps
+- 4x spammer: ~330 tps
 
 
 using sirspamalot with 6x per on 4x machines (24 procs):
+
 ~ 450 tps
